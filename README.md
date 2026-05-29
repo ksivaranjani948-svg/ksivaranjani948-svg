@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Sivaranjani 👋
 
-<!--
-**ksivaranjani948-svg/ksivaranjani948-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd-year Computer Science student  
+💻 Frontend Developer — HTML, CSS & JavaScript  
+🚀 Looking for internship opportunities  
+🌍 Based in India  
 
-Here are some ideas to get you started:
+## 🛠️ My Projects
+| Project | About |
+|---|---|
+| 🌤️ Weather Website | Weather app UI |
+| ✈️ TripAI | Travel planning page |
+| 🐍 Snake Game | Classic snake game |
+| 🍔 Bite Basket | Food ordering page |
+| 🕷️ Spiderman Project | Spider-Man fan page |
+| 👟 Nike Landing Page | Nike clone page |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Connect with me
+- Portfolio: https://ksivaranjani948-svg.github.io/myportfolio/
