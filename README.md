@@ -31,7 +31,6 @@ class SivaRanjani:
     college    = "Thiruvalluvar College, Papanasam"
     degree     = "B.Sc Computer Science (Final Year)"
     certified  = "Oracle Cloud Infrastructure 2025"
-    location   = "Kallidaikurichi, Tamil Nadu 🇮🇳"
     interests  = ["Web Dev", "Cloud", "Writing", "Anime"]
     currently  = "Open to internships & opportunities"
     fun_fact   = "I overthink everything... and that's my superpower 🖤"
