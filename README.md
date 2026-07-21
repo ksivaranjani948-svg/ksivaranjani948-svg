@@ -28,7 +28,7 @@
 class SivaRanjani:
     name       = "K. Siva Ranjani"
     role       = "Frontend Developer"
-    college    = "Thiruvalluvar College, Papanasam"
+    college    = "Thiruvalluvar College"
     degree     = "B.Sc Computer Science (Final Year)"
     certified  = "Oracle Cloud Infrastructure 2025"
     interests  = ["Web Dev", "Cloud", "Writing", "Anime"]
